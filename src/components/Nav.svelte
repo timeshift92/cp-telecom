@@ -6,22 +6,22 @@
 <ul class="fade"  bind:this={menuElem}>
 
   <li on:click={closeMenu}>
-    <a href="/">Главная</a>
+    <a href="cp-telecom">Главная</a>
   </li>
   <li on:click={closeMenu}>
-    <a href="/internet">Интернет</a>
+    <a href="internet">Интернет</a>
   </li>
   <li on:click={closeMenu}>
-    <a href="/public-offer">Публичная оферта</a>
+    <a href="public-offer">Публичная оферта</a>
   </li>
   <li on:click={closeMenu}>
-    <a href="/about-us">О нас</a>
+    <a href="about-us">О нас</a>
   </li>
   <li on:click={closeMenu}>
-    <a href="/ip-tv">IP TV</a>
+    <a href="ip-tv">IP TV</a>
   </li>
   <li on:click={closeMenu}>
-    <a href="/ip-telephone">IP телефония</a>
+    <a href="ip-telephone">IP телефония</a>
   </li>
 </ul>
 
