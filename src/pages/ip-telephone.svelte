@@ -1,6 +1,6 @@
 <section class ="ip-telephone__video">
   <video autoplay loop >
-    <source src="/video/ip-phone.mp4">
+    <source src="ip-phone.mp4">
   </video>
 </section>
 <style>

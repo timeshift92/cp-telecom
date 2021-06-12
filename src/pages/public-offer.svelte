@@ -1,6 +1,6 @@
 <div class="public__content">
   <div class="public__content__img">
-    <img src="/images/public-offer.webp" alt="публичная оферта">
+    <img src="public-offer.webp" alt="публичная оферта">
   </div>
   <div class="public__content__text"><p>Публичная оферта</p></div>
 </div>

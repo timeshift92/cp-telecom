@@ -1,6 +1,6 @@
 <!-- routify:options preload="proximity" -->
 <header>
-  <div class="mobile__img"><img src="/images/logo.webp"></div>
+  <div class="mobile__img"><img src="/logo.webp"></div>
   <div class="mobile__text">CAPITAL TELECOM</div>
   <Nav/>
 </header>

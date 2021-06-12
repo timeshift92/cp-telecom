@@ -9,7 +9,7 @@
   <section class="internet__info">
     <article class="internet__video">
       <video autoplay loop>
-        <source src="/video/internet.mp4" />
+        <source src="internet.mp4" />
       </video>
     </article>
     <article class="internet__text">
@@ -113,7 +113,7 @@
     /* text-align: center; */
     padding: 10px 30px;
     margin: 0 auto;
-    background: url(/images/internet.webp) no-repeat;
+    background: url(internet.webp) no-repeat;
     /* background-color: rgba(red, green, blue, alpha); */
     background-size: 100% 100%;
   }
@@ -128,7 +128,7 @@
 
     margin: 0px auto;
     text-align: center;
-    background: url(/images/background.webp) no-repeat;
+    background: url(background.webp) no-repeat;
     position: relative;
     background-size: 100% 100%;
   }
@@ -185,7 +185,7 @@
 
       margin: 0px auto;
       text-align: center;
-      background: url(/images/background.webp) no-repeat;
+      background: url(background.webp) no-repeat;
       position: relative;
       background-size: 100% 100%;
     }

@@ -299,7 +299,7 @@
 </div>
 <style>
   .table__all{
-    background: url(/images/background.webp) no-repeat;
+    background: url(background.webp) no-repeat;
     background-size: 100% 100%;
     padding-bottom: 20px;
     padding-top: 20px;

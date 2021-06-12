@@ -1,6 +1,6 @@
 <section class ="ip-tv__video">
   <video autoplay loop >
-    <source src="/video/ip-tv.mp4">
+    <source src="ip-tv.mp4">
   </video>
 </section>
 <style>

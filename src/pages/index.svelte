@@ -6,7 +6,7 @@
 <div class="main__content">
   <article>
     <div class="article__img">
-      <img src="/images/main-img.webp" alt="">
+      <img src="main-img.webp" alt="">
     </div>
     <div class="article__text">
       <a href="/internet">ИНТЕРНЕТ</a>
@@ -15,7 +15,7 @@
   </article>
   <article>
     <div class="article__img">
-      <img src="/images/main-img-2.webp" alt="">
+      <img src="main-img-2.webp" alt="">
     </div>
     <div class="article__text">
       <a href="/ip-tv">IP TV</a>
@@ -24,7 +24,7 @@
   </article>
   <article>
     <div class="article__img">
-      <img src="/images/main-img-3.webp" alt="">
+      <img src="main-img-3.webp" alt="">
     </div>
     <div class="article__text">
       <a href="/ip-telephon">IP ТЕЛЕФОНИЯ</a>
@@ -32,13 +32,13 @@
     </div>
   </article>
   <div class="article__img__mobile">
-    <img src="/images/main-img.webp" alt="">
+    <img src="main-img.webp" alt="">
   </div>
   <div class="article__img__mobile">
-    <img src="/images/main-img-2.webp" alt="">
+    <img src="main-img-2.webp" alt="">
   </div>
   <div class="article__img__mobile">
-    <img src="/images/main-img-3.webp" alt="">
+    <img src="main-img-3.webp" alt="">
   </div>
 </div>
 

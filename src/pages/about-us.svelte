@@ -216,7 +216,7 @@
     </div>
   </article>
     <article class="about-us__info__image">
-      <img src="/images/Meeting.webp" alt="">
+      <img src="Meeting.webp" alt="">
     </article>
 </section>
   <section id="vacancy__link" class = "about-us__vacancy">
@@ -230,7 +230,7 @@
   </section>
   <section class ="about-us__video">
     <video autoplay loop >
-      <source src="/video/about-us.mp4">
+      <source src="about-us.mp4">
     </video>
   </section>
 </div>
